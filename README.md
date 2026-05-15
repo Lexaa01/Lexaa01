@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+Building+Modern+Web+Applications;%3E+Engineering+Intelligent+Bots;%3E+Crafting+Digital+Experiences" alt="Typing SVG" />
 </a>
 
+
+
+
+
 <!-- Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-lexaa.web.id-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lexaa.web.id)
 [![Email](https://img.shields.io/badge/Email-halo%40lexaa.web.id-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halo@lexaa.web.id)
