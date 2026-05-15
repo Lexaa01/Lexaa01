@@ -9,8 +9,6 @@
 </a>
 
 <br/>
-<br/>
-<br/>
 
 <!-- Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-lexaa.web.id-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lexaa.web.id)
