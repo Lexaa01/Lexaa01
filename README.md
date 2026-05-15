@@ -120,8 +120,21 @@ const lexaa = {
 
 ## 🐍 Contribution Snake
 
+<!-- 
+  ⚠️ SETUP REQUIRED: To make this work, you need to:
+  1. Go to your repo: github.com/Lexaa01/Lexaa01
+  2. Create file: .github/workflows/snake.yml
+  3. Paste the contents from snake-workflow.yml
+  4. Go to Actions tab → "Generate Snake Animation" → "Run workflow"
+  5. Wait for it to complete, then the snake will appear!
+-->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lexaa01/Lexaa01/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lexaa01/Lexaa01/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lexaa01/Lexaa01/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Lexaa01/Lexaa01/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
