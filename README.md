@@ -33,15 +33,11 @@ const lexaa = {
 };
 ```
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexaa01&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
-
 - 🔭 Currently working on **modern web applications** and **automation bots**
 - 🌱 Always learning new technologies and best practices
 - 💼 Open for **freelance projects** & **collaborations**
 - 🎯 Goal: Craft digital experiences that make an impact
 - 📬 Reach me: **halo@lexaa.web.id**
-
-<br clear="both"/>
 
 ---
 
@@ -96,8 +92,14 @@ const lexaa = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lexaa01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Lexaa01&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=6B7280" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=Lexaa01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Lexaa01&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=6B7280" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lexaa01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=10" />
 </div>
 
 <br/>
